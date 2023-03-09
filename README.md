@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+<img width="960" alt="recipespoints" src="https://user-images.githubusercontent.com/105824474/224173628-64b38acf-c017-4c19-894c-b22869eaf63d.png">
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
